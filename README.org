@@ -1,0 +1,10 @@
+* oclcl
+
+S-expression to OpenCL C
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gos-k/oclcl.git   |
+| commit  | 61632ca  |
+| systems | oclcl |
+|---------+-------------------------------------------|
+
