@@ -4,6 +4,6 @@ S-expression to OpenCL C
 
 |---------+----------------------------------------|
 | source  | git:https://github.com/gos-k/oclcl.git |
-| commit  | 3ce19ab                                |
+| commit  | 8ddd1e7                                |
 | systems | oclcl                                  |
 |---------+----------------------------------------|
